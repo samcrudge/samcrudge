@@ -1,6 +1,6 @@
 # Hello, I'm Sam Crudge!
 
-I'm a Cloud Solutions Architect who loves working with Terraform and playing in the Cyber-Security sphere. Here's a little about what I do:
+I'm a Cloud Solutions Architect working for Shopware AG who loves working with Cloud and Cyber-Security. Here's a little about what I do:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
