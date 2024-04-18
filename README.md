@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm Sam Crudge!
 
-I'm a Cloud Solutions Architect who loves working with Terraform and Cyber-Security. Here's a little about what I do:
+I'm a Cloud Solutions Architect who loves working with Terraform and playing in the Cyber-Security sphere. Here's a little about what I do:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
@@ -17,6 +17,7 @@ I'm a Cloud Solutions Architect who loves working with Terraform and Cyber-Secur
 ## OS Preferences
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 
 ## 📈 GitHub Stats
 
