@@ -4,10 +4,18 @@ I'm a Cloud Solutions Architect who loves working with Terraform and Cyber-Secur
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sh-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](#)
+[![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)](#)
+
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)
 
 ## 📈 GitHub Stats
 
@@ -21,5 +29,6 @@ I'm a Cloud Solutions Architect who loves working with Terraform and Cyber-Secur
 ## 📫 How to Reach Me
 - **[LinkedIn](https://www.linkedin.com/in/samuel-crudge/)**
 - **[Email](coffee@samuel.mozmail.com)**
-- **[Twitter](https://twitter.com/SamuelCrudge)**
+- ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SamuelCrudge)
+
 
