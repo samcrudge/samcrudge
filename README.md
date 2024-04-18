@@ -31,6 +31,6 @@ I'm a Cloud Solutions Architect who loves working with Terraform and playing in 
 ## 📫 How to Reach Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samuel-crudge/)
 - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SamuelCrudge)
-- **[Email](coffee@samuel.mozmail.com)**
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](coffee@samuel.mozmail.com)
 
 
