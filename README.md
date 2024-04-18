@@ -6,7 +6,7 @@ I'm a Cloud Solutions Architect who loves working with Terraform and Cyber-Secur
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Sh-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
