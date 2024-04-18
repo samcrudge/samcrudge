@@ -10,10 +10,11 @@ I'm a Cloud Solutions Architect who loves working with Terraform and Cyber-Secur
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+## Cloud Platforms
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](#)
 [![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)](#)
 
-
+## OS Preferences
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)
 
@@ -27,8 +28,8 @@ I'm a Cloud Solutions Architect who loves working with Terraform and Cyber-Secur
 </a>
 
 ## 📫 How to Reach Me
-- **[LinkedIn](https://www.linkedin.com/in/samuel-crudge/)**
-- **[Email](coffee@samuel.mozmail.com)**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samuel-crudge/)
 - ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SamuelCrudge)
+- **[Email](coffee@samuel.mozmail.com)**
 
 
