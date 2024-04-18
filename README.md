@@ -1,10 +1,13 @@
 # Hello, I'm [Your Name]!
 
-I'm a [Your Job Title] who loves working with [Technologies/Fields]. Here's a little about what I do:
+I'm a Cloud Solutions Architect who loves working with Terraform and Cyber-Security. Here's a little about what I do:
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
 
