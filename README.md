@@ -7,7 +7,6 @@ I'm a Cloud Solutions Architect working for Shopware AG who loves working with C
 ![](https://img.shields.io/badge/code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sh-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ## Cloud Platforms
