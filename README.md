@@ -32,6 +32,11 @@ Before product I spent a decade building cloud infrastructure: Principal Cloud E
 Latest from [artofcloud.net](https://artofcloud.net):
 
 <!-- BLOG-POST-LIST:START -->
+- [What is DevOps?](https://artofcloud.net/what-is-devops)
+- [Terraform: Lets talk modules](https://artofcloud.net/terraform-lets-talk-modules)
+- [Terraform Cloud: 7 steps to CI/CD.](https://artofcloud.net/terraform-cloud-7-steps-to-cicd)
+- [Bash: 10 command line tools for beginners](https://artofcloud.net/bash-10-command-line-tools-for-beginners)
+- [An Introduction to Terraform](https://artofcloud.net/an-introduction-to-terraform)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere
