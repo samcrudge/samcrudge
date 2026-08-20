@@ -19,8 +19,21 @@ Before product I spent a decade building cloud infrastructure: Principal Cloud E
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=samcrudge&show_icons=true&hide_border=true&bg_color=00000000&title_color=b3457b&icon_color=b3457b&text_color=8b949e&ring_color=b3457b" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcrudge&layout=compact&hide_border=true&bg_color=00000000&title_color=b3457b&text_color=8b949e&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=samcrudge&hide_border=true&background=00000000&ring=b3457b&fire=b3457b&currStreakLabel=b3457b&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" alt="Contribution streak" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcrudge/samcrudge/output/github-snake-dark.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/samcrudge/samcrudge/output/github-snake.svg" />
+</picture>
+
+## Writing
+
+Latest from [artofcloud.net](https://artofcloud.net):
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere
 
-I write about cloud at [artofcloud.net](https://artofcloud.net). You can also find me on [LinkedIn](https://www.linkedin.com/in/samuel-crudge/).
+Find me on [LinkedIn](https://www.linkedin.com/in/samuel-crudge/).
